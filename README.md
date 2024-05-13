@@ -1,1 +1,4 @@
 # my-recipes
+## This is the first major project in my learning course. The instructor has given us a lot of resources and we have to use them to build our project. 
+## The project is a simple website that shows different food recipes. It is built by htnl only because we have only learnt html. As we move on in the learning course, we will update the project with CSS and JS.
+## I submitted this project about 3½ hours late because there was no light and I had to go to school to complete the project. I hope this doesn't repeat itself. I hope I can submit on time the next time we have a project or assignment.
